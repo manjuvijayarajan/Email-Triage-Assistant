@@ -1,0 +1,15 @@
+[
+  {
+    "thread_id": "1",
+    "emails": [
+      {"from": "manager@company.com", "body": "Meeting moved to tomorrow 10 AM"},
+      {"from": "you@company.com", "body": "Okay noted"}
+    ]
+  },
+  {
+    "thread_id": "2",
+    "emails": [
+      {"from": "promo@shop.com", "body": "50% discount offer valid today"}
+    ]
+  }
+]
