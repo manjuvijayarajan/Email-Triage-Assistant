@@ -23,5 +23,8 @@ The system follows an AI agent workflow:
 Email Thread → Summarization → Categorization → Decision Engine → Auto Reply / Ignore
 ## 📄 Project Documentation
 
-Detailed documentation is available in the `/docs` folder:  
-👉 [`docs/project_documentation.md`](docs/project_documentation.md)
+## 📄 Project Documentation
+
+Detailed project documentation is available here:  
+👉 [`project_documentation.md`](project_documentation.md)
+
