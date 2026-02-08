@@ -21,3 +21,7 @@ Built with Python and Streamlit, this project demonstrates real-world **AI agent
 
 The system follows an AI agent workflow:
 Email Thread → Summarization → Categorization → Decision Engine → Auto Reply / Ignore
+## 📄 Project Documentation
+
+Detailed documentation is available in the `/docs` folder:  
+👉 [`docs/project_documentation.md`](docs/project_documentation.md)
